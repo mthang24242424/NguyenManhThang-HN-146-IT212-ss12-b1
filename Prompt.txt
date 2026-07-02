@@ -1,0 +1,155 @@
+Prompt 1: 
+Hãy đóng vai là một Senior Business Analyst có hơn 10 năm kinh nghiệm trong lĩnh vực FinTech và Ngân hàng số.
+
+Bạn đang tham gia phân tích nghiệp vụ cho một dự án mở tài khoản ngân hàng trực tuyến bằng eKYC.
+
+Trong suốt quá trình trả lời:
+
+- Phân tích theo tư duy của Business Analyst chuyên nghiệp.
+- Trình bày rõ ràng, có cấu trúc.
+- Sử dụng Markdown.
+- Giải thích ngắn gọn, dễ hiểu.
+- Không viết code.
+- Nếu có giả định thì nêu rõ đó là giả định.
+
+Sau khi sẵn sàng, hãy chờ tôi gửi tình huống nghiệp vụ.
+
+Prompt 2: 
+
+Dựa trên tình huống nghiệp vụ sau, hãy tiến hành phân tích hệ thống.
+
+Tình huống:
+
+Ngân hàng số ABC Bank muốn số hóa hoàn toàn quy trình mở tài khoản bằng eKYC.
+
+Luồng nghiệp vụ hiện tại:
+
+1. Khách hàng tải ứng dụng.
+2. Đăng ký thông tin cá nhân.
+3. Chụp ảnh hai mặt CCCD.
+4. Quét khuôn mặt (Liveness Check).
+5. Hệ thống OCR và AI đối chiếu dữ liệu.
+6. Nếu hợp lệ thì tự động cấp số tài khoản.
+
+Mục tiêu của ngân hàng:
+
+- Zero Manual Operation.
+- Giảm tối đa sự can thiệp của giao dịch viên.
+- Đảm bảo bảo mật.
+- Mở tài khoản nhanh chóng.
+
+Hãy phân tích và trình bày đầy đủ các nội dung sau:
+
+1. Mô tả tổng quan hệ thống.
+2. Actors (Các tác nhân).
+3. Stakeholders.
+4. Business Objectives.
+5. Business Flow theo từng bước.
+6. Functional Requirements.
+7. Non-Functional Requirements.
+8. Assumptions.
+9. Business Rules.
+10. Exception Flow.
+11. Các rủi ro có thể xảy ra.
+
+Trình bày theo Markdown, có tiêu đề và gạch đầu dòng rõ ràng.
+
+Prompt 3: 
+
+Dựa trên kết quả phân tích ở trên, hãy xây dựng danh sách User Story.
+
+Yêu cầu:
+
+- Viết theo chuẩn:
+
+As a ...
+I want ...
+So that ...
+
+Đối với mỗi User Story hãy bổ sung:
+
+- Mức độ ưu tiên (High/Medium/Low)
+- Acceptance Criteria
+- Business Value
+
+Đảm bảo bao phủ toàn bộ quy trình eKYC.
+
+Prompt 4:
+
+Dựa trên toàn bộ kết quả phân tích trước đó, hãy xây dựng danh sách Use Case.
+
+Đối với mỗi Use Case cần có:
+
+- Use Case ID
+- Tên Use Case
+- Mục tiêu
+- Actor chính
+- Actor phụ
+- Điều kiện tiên quyết
+- Điều kiện kết thúc
+- Trigger
+- Luồng chính
+- Luồng thay thế
+- Luồng ngoại lệ
+
+Trình bày theo Markdown.
+
+Prompt 5:
+
+Hãy đóng vai Lead Business Analyst và rà soát toàn bộ tài liệu phân tích.
+
+Kiểm tra xem còn thiếu hay chưa đầy đủ các nội dung sau:
+
+- Functional Requirements
+- Non-Functional Requirements
+- Business Rules
+- Assumptions
+- User Story
+- Use Case
+- Exception Flow
+- Các rủi ro
+- Các yêu cầu bảo mật
+- Các yêu cầu hiệu năng
+
+Nếu phát hiện thiếu hoặc chưa hợp lý, hãy đề xuất bổ sung và giải thích lý do.
+
+Prompt 6:
+
+Dựa trên các điểm còn thiếu và các đề xuất vừa nêu, hãy cập nhật lại toàn bộ tài liệu phân tích nghiệp vụ.
+
+Yêu cầu:
+
+- Giữ nguyên cấu trúc tài liệu hiện có.
+- Bổ sung đầy đủ các Functional Requirements còn thiếu.
+- Bổ sung các Business Rules còn thiếu.
+- Bổ sung các Non-Functional Requirements về bảo mật và hiệu năng.
+- Bổ sung các Exception Flows.
+- Nếu có nội dung cần chỉnh sửa thì cập nhật trực tiếp thay vì chỉ ghi chú.
+
+Sau khi hoàn thành, hãy xuất ra phiên bản tài liệu hoàn chỉnh bằng Markdown.
+
+Prompt 7:
+
+Dựa trên phiên bản tài liệu đã được cập nhật và hoàn thiện, hãy tổng hợp thành một tài liệu Business Analysis hoàn chỉnh.
+
+Yêu cầu:
+
+- Không bỏ sót bất kỳ nội dung nào.
+- Không ghi chú "đề xuất", "cần bổ sung" hay "còn thiếu".
+- Chỉ xuất bản phiên bản cuối cùng.
+- Trình bày bằng Markdown với các mục:
+  1. Giới thiệu
+  2. Mục tiêu
+  3. Actors
+  4. Business Flow
+  5. Functional Requirements
+  6. Non-Functional Requirements
+  7. Business Rules
+  8. Assumptions
+  9. User Stories
+  10. Use Cases
+  11. Exception Flows
+  12. Rủi ro
+  13. Kết luận
+
+Đây sẽ là phiên bản cuối cùng sẵn sàng để chuyển sang Word hoặc PDF.
